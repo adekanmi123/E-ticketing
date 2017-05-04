@@ -1,0 +1,8 @@
+Instruction to run the project successfully :
+	
+	1. Install xampp for mysql and php server
+	2. Import the database provided with the source code (database name "ticket")
+	3. Local username : "root" password : ""
+	4. Put the source code in xampp htdocs directory
+	5. Run mysql and php server
+	6. In browser run the localhost project
